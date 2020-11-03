@@ -3,8 +3,8 @@ repository: samsw/modern-resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Still In. Development
-title: Not A Web Developer
+name: Samuel T. Swanner
+title: Welcome To My Venture Into Web Design
 email: sam@swanner.net
 website: https://resume.swanner.net
 
@@ -36,10 +36,12 @@ about_content: | # this will include new lines to allow paragraphs
 # projects_title: Projects
 
 # More Section
-# more_title: A Little More About Me
+# more_title: Where To Find This GitHub Pages Theme!
 more_content: | # this will include new lines to allow paragraphs
   Work In Progress!
 # - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+
 
 # Footer
 footer_show_references: true
