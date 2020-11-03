@@ -2,5 +2,6 @@
   name: "University of Maryland: College Park"
   dates: December 2018
   qualification: Bachelor of Science in Information Science
+- layout: top-middle  
   description: | # this will include new lines to allow paragraphs
     Relevant Coursework: Database Design, Data Manipulation with Python, Technical Writing, Teams and Organizations
