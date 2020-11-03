@@ -26,11 +26,11 @@ about_profile_image: images/profilePic.jpg
 about_content: | # this will include new lines to allow paragraphs
   Work In Progress!
 
-# Experience Section
-# experience_title: Experience
-
 # Education Section
 # educaton_title: Education
+
+# Experience Section
+# experience_title: Experience
 
 # Projects Section
 # projects_title: Projects
