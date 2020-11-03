@@ -26,8 +26,6 @@ about_profile_image: images/profilePic.jpg
 about_content: | # this will include new lines to allow paragraphs
   Work In Progress!
 
-  I am most skilled in: <mark>VMware Datacenter Operations</mark> and <mark>Eating Pizza</mark>
-
 # Experience Section
 # experience_title: Experience
 
@@ -40,10 +38,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
+  Work In Progress!
 # - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
