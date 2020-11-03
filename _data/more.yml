@@ -2,11 +2,9 @@
   more_title: Where To Find This GitHub Pages Theme!
 
   # More Template
-- layout: left
+- layout: top-middle
   name: https://github.com/sproogen/modern-resume-theme
   #dates: Date Range (eg. 2016 - 2019)
   #qualification: Qualifications (eg. BA Performing Arts)
   #quote: >
     #Short institution or course description (optional)
-  description: | # this will include new lines to allow paragraphs
-    Check it out!
