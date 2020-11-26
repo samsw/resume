@@ -22,3 +22,15 @@
     - Configured a virtual server hosted on VMware ESXi with Windows Server Update Services (WSUS) to test new methods of saving space on the production WSUS server.
     - Performed in-place upgrades on multiple Mac desktops to bring the Technology Assessment Mac Lab up to date.
     - Tested and configured hardware to assist the Technology Assessment team including an HPE StoreEasy 1660 rack mounted server.
+
+- layout: left
+  company: Civil and Environmental Engineering IT Department at the University of Maryland College Park
+  link: College Park, M.D.
+  job_title: Support Technician
+  dates: June 2016 - May 2018
+  #quote: >
+  # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  description: | # this will include new lines to allow paragraphs
+    - Cataloged and replaced computer and network equipment that was outdated to help improve efficiency in the CEE department. 
+    - Troubleshot and answered questions for CEE staff regarding a wide range of computer and network problems.
+    - Utilized the ticketing systems Jitbit and OTRS to organize and respond to requests by CEE staff.
