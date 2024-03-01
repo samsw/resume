@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Samuel T. Swanner
-title: Systems Engineer Focusing on Virtualization, Cloud, Storage, and Automation
+title: Systems Engineer Focusing on Virtualization, Cloud, Backup, and Automation
 email: sam@swanner.net
 # website: https://resume.swanner.net
 
@@ -37,9 +37,6 @@ about_content: | # this will include new lines to allow paragraphs
 
 # More Section
 more_title: Where To Find This GitHub Pages Theme!
-more_content: 
-  link_text: https://github.com/sproogen/modern-resume-theme
-
 
 
 # Footer
