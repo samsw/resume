@@ -1,13 +1,30 @@
 - layout: left
   company: United States Senate - Sergeant at Arms
   link: Washington, D.C.
+  job_title: Systems Engineer
+  dates: August 2019 - Present
+  #quote: >
+  # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  description: | # this will include new lines to allow paragraphs
+    - Designed and implemented a Change Request project through development to production to increase the complexity of default passwords programmatically, reducing the SAA’s vulnerability while maintaining readable default passwords for staff.
+    - Led team members through organization, execution, and coordination with other teams to lift and shift an entire backup system during a datacenter move ensuring it came back online without issue in a timely manner.
+    - Architected and deployed an enterprise backup system to replace the older system ensuring the SAA has a modern backup solution to protect a wide variety of systems.
+    - Trained an apprentice team member to take over responsibilities for an enterprise backup system seeing them to full systems engineer within one year.
+    - Troubleshot a complex Windows server issue where Senate office staff lost access to all file shares. Resolved it through log investigation and registry manipulation after a faulty update restoring access for staffers.
+    - Communicated and coordinated a new process with a Senate office to retrieve their old data when retiring by using remote copy methods to avoid physical contact and save time during the pandemic.
+
+
+- layout: left
+  company: United States Senate - Sergeant at Arms
+  link: Washington, D.C.
   job_title: Systems Engineering Apprentice
   dates: August 2019 - Present
   #quote: >
   # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
-    Work In Progress!
-
+    - Evaluated different systems (backup, storage, and Hyper Converged Infrastructure) through proof of concept to see what was best to replace aging systems and explore new offerings. Tested and wrote technical documentation on each which helped decide on new backup and storage infrastructure to modernize the SAA datacenter.
+    - Deployed VMware ESXi hypervisor onto HPE servers after installing them into the datacenter during a server refresh updating the SAA hardware replacing aging systems that were out of support.
+    - Updated HPE server firmware using SUM and SPP packages to address an ESXi bug locking up hosts, resolving the firmware issue and returning hosts to working order.
 - layout: left
   company: United States Senate - Sergeant at Arms
   link: Washington, D.C.
