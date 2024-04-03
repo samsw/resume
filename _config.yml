@@ -43,7 +43,7 @@ more_title: Where To Find This GitHub Pages Theme!
 footer_show_references: true
 
 # Build settings
-remote_theme: sproogen/modern-resume-theme
+remote_theme: samsw/modern-resume-theme
 
 sass:
   sass_dir: _sass
