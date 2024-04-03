@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/modern-resume-theme
+repository: samsw/resume
 favicon: images/favicon.ico
 
 # Personal info
@@ -43,7 +43,7 @@ more_title: Where To Find This GitHub Pages Theme!
 footer_show_references: true
 
 # Build settings
-remote_theme: samsw/modern-resume-theme
+remote_theme: sproogen/modern-resume-theme
 
 sass:
   sass_dir: _sass
