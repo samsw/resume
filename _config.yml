@@ -10,12 +10,14 @@ website: https://resume.swanner.net
 
 # Social Links
 linkedin_username: samuel-swanner-56b27313b
-github_username: samsw
 
 # About Section
 about_profile_image: images/profilePic.jpg
 about_content: |
   Hello! My name is Sam and welcome to my website. I am a systems engineer that loves to learn and script. This website currently is hosted on GitHub, however at any moment it could move about!
+
+# More Section
+more_title: Find This Jekyll Theme
 
 # Footer
 footer_show_references: true
