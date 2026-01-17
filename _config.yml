@@ -2,47 +2,27 @@
 repository: samsw/resume
 favicon: images/favicon.ico
 
-# Personal info
+# Personal Info
 name: Samuel T. Swanner
 title: Systems Engineer Focusing on Virtualization, Cloud, Backup, and Automation
 email: sam@swanner.net
-# website: https://resume.swanner.net
+website: https://resume.swanner.net
 
-# Social links
-#twitter_username: facespics
-# github_username:  samsw
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-#instagram_username: chillwildlife
+# Social Links
 linkedin_username: samuel-swanner-56b27313b
-# pinterest_username: jekyll
-#youtube_username: globalmtbdrg
-# googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me
 about_profile_image: images/profilePic.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Hello! My name is Sam and welcome to my website. I am a systems engineer that loves to learn and script. This website currently is hosted on GitHub, however at any moment it could move about!
-
-# Education Section
-# educaton_title: Education
-
-# Experience Section
-# experience_title: Experience
-
-# Projects Section
-# projects_title: Projects
+about_content: |
+  Hello! My name is Sam and welcome to my website. I am currently a Technology Specialist helping to bring in new and emerging solutions. This website currently is hosted on GitHub Pages.
 
 # More Section
-more_title: Where To Find This GitHub Pages Theme!
-
+more_title: Find This Jekyll Theme
 
 # Footer
 footer_show_references: true
 
-# Build settings
+# Build Settings
 remote_theme: samsw/modern-resume-theme
 
 sass:
@@ -50,4 +30,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag

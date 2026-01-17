@@ -1,38 +1,38 @@
 - layout: left
   company: United States Senate - Sergeant at Arms
-  link: Washington, D.C.
+  link: https://www.senate.gov/about/officers-staff/sergeant-at-arms.htm
   job_title: Systems Engineer
   dates: March 2021 - Present
-  #quote: >
-  # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-  description: | # this will include new lines to allow paragraphs
-    - Designed and implemented a Change Request project through development to production to increase the complexity of default passwords programmatically, reducing the SAA’s vulnerability while maintaining readable default passwords for staff.
+  description: |
+    Washington, D.C.
+
+    - Designed and implemented a Change Request project through development to production to increase the complexity of default passwords programmatically, reducing the SAA's vulnerability while maintaining readable default passwords for staff.
     - Led team members through organization, execution, and coordination with other teams to lift and shift an entire backup system during a datacenter move ensuring it came back online without issue in a timely manner.
     - Architected and deployed an enterprise backup system to replace the older system ensuring the SAA has a modern backup solution to protect a wide variety of systems.
     - Trained an apprentice team member to take over responsibilities for an enterprise backup system seeing them to full systems engineer within one year.
     - Troubleshot a complex Windows server issue where Senate office staff lost access to all file shares. Resolved it through log investigation and registry manipulation after a faulty update restoring access for staffers.
     - Communicated and coordinated a new process with a Senate office to retrieve their old data when retiring by using remote copy methods to avoid physical contact and save time during the pandemic.
 
-
 - layout: left
   company: United States Senate - Sergeant at Arms
-  link: Washington, D.C.
+  link: https://www.senate.gov/about/officers-staff/sergeant-at-arms.htm
   job_title: Systems Engineering Apprentice
   dates: August 2019 - March 2021
-  #quote: >
-  # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-  description: | # this will include new lines to allow paragraphs
+  description: |
+    Washington, D.C.
+
     - Evaluated different systems (backup, storage, and Hyper Converged Infrastructure) through proof of concept to see what was best to replace aging systems and explore new offerings. Tested and wrote technical documentation on each which helped decide on new backup and storage infrastructure to modernize the SAA datacenter.
     - Deployed VMware ESXi hypervisor onto HPE servers after installing them into the datacenter during a server refresh updating the SAA hardware replacing aging systems that were out of support.
     - Updated HPE server firmware using SUM and SPP packages to address an ESXi bug locking up hosts, resolving the firmware issue and returning hosts to working order.
+
 - layout: left
   company: United States Senate - Sergeant at Arms
-  link: Washington, D.C.
+  link: https://www.senate.gov/about/officers-staff/sergeant-at-arms.htm
   job_title: Technology Assessment Intern
   dates: May 2018 - August 2018
-  #quote: >
-  # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-  description: | # this will include new lines to allow paragraphs
+  description: |
+    Washington, D.C.
+
     - Created a technical evaluation report after testing and meeting with company representatives on a fingerprint device to fill the need for an external biometric solution.
     - Designed and tested PowerShell scripts that fixed a problem between Windows Hello and certain mobile devices not being able to sign-in with biometrics.
     - Wrote user guides and documentation for Senate staff to set-up and enable Windows Hello sign-in.
@@ -42,12 +42,12 @@
 
 - layout: left
   company: Civil and Environmental Engineering IT Department
-  link: University of Maryland College Park, M.D.
+  link: https://cee.umd.edu/
   job_title: Support Technician
   dates: June 2016 - May 2018
-  #quote: >
-  # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-  description: | # this will include new lines to allow paragraphs
-    - Cataloged and replaced computer and network equipment that was outdated to help improve efficiency in the CEE department. 
+  description: |
+    University of Maryland College Park, MD
+
+    - Cataloged and replaced computer and network equipment that was outdated to help improve efficiency in the CEE department.
     - Troubleshot and answered questions for CEE staff regarding a wide range of computer and network problems.
     - Utilized the ticketing systems Jitbit and OTRS to organize and respond to requests by CEE staff.

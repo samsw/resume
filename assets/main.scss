@@ -2,4 +2,89 @@
 # Front matter comment to ensure Jekyll properly reads file.
 ---
 
+// Custom color variables
+$primary-color: #2b6cb0;
+$secondary-color: #4a5568;
+$text-color: #2d3748;
+$light-bg: #f7fafc;
+
 @import 'modern-resume-theme';
+
+// Custom style overrides
+body {
+  color: $text-color;
+}
+
+// Header styling
+.header-wrapper {
+  background: linear-gradient(135deg, $primary-color 0%, darken($primary-color, 15%) 100%);
+}
+
+// Profile section
+.about {
+  .profile-img {
+    border: 4px solid $primary-color;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+}
+
+// Section headers
+h2 {
+  color: $primary-color;
+  border-bottom: 2px solid $primary-color;
+  padding-bottom: 0.5rem;
+}
+
+// Experience and Education cards
+.col-xs-12 {
+  .item {
+    background: $light-bg;
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    transition: box-shadow 0.2s ease;
+
+    &:hover {
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+  }
+}
+
+// Links styling
+a {
+  color: $primary-color;
+  transition: color 0.2s ease;
+
+  &:hover {
+    color: darken($primary-color, 15%);
+    text-decoration: none;
+  }
+}
+
+// Footer styling
+.footer {
+  background: $secondary-color;
+
+  a {
+    color: lighten($primary-color, 30%);
+
+    &:hover {
+      color: white;
+    }
+  }
+}
+
+// Print styles for better resume printing
+@media print {
+  .header-wrapper {
+    background: $primary-color !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .col-xs-12 .item {
+    box-shadow: none;
+    border: 1px solid #e2e8f0;
+  }
+}
