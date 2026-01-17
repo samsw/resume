@@ -1,19 +1,12 @@
 - layout: top-middle
-  name: "University of Maryland: College Park"
+  name: University of Maryland, College Park
+  link: https://ischool.umd.edu/
   dates: December 2018
   qualification: Bachelor of Science in Information Science
+  description: |
+    The Bachelor of Science in Information Science (InfoSci) program teaches students skills in technical areas such as database design, information architecture, web/mobile development, data analytics, and cybersecurity alongside areas of the social sciences, leadership, and the humanities - addressing the growing and unique need for information professionals who understand complex social and organizational issues.
 
-- layout: left  
-  name: "My Degree:"
-  description: | # this will include new lines to allow paragraphs
-    As described on the Information Science website "The Bachelor of Science in Information Science (InfoSci) 4-year degree program at College Park teaches students skills in technical areas such as database design, information architecture, web/mobile development, data analytics, and cybersecurity alongside areas of the social sciences, leadership, and the humanities – addressing the growing and unique need for information professionals who understand complex social and organizational issues."
-
-    https://ischool.umd.edu/ 
-
-
-- layout: left  
-  name: "Relevant Coursework:"
-  description: | # this will include new lines to allow paragraphs
+    **Relevant Coursework:**
     - Database Design
     - Data Manipulation with Python
     - Technical Writing
